@@ -1,0 +1,16 @@
+{
+  "name": "shake-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jaron Long",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "devDependencies": {
+    "rollup-plugin-visualizer": "^5.9.0"
+  }
+}
