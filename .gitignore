@@ -7,7 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-packages/mobile/node_modules
+node_modules
 dist
 types
 dist-ssr
